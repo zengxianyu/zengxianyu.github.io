@@ -1,0 +1,11 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+        
+    
+  - title: "CV"
+    url: /files/apr_update_short.pdf
+
+  - title: "Bio"
+    url: /bio/
